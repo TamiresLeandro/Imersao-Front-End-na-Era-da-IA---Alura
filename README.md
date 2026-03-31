@@ -22,9 +22,10 @@ A interface é baseada em uma plataforma de streaming, focando em:
 - Experiência do usuário (UX).
 - Design moderno.
 
-## 🚀 Como visualizar o projeto
-Você pode acessar o resultado final através do link:
-[👉 Clique aqui para acessar o projeto](SEU_LINK_AQUI)
+## 🎓 Certificação
+Este projeto faz parte da minha trajetória de aprendizado em Front-End. Você pode visualizar meu certificado oficial da Alura no link abaixo:
+
+* [📜 Visualizar Certificado de Conclusão](LINK_DO_SEU_CERTIFICADO)
 
 ---
 Desenvolvido com 💙 por Tamires Leandro durante a Imersão Alura.
