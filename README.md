@@ -13,7 +13,7 @@ O objetivo principal é criar uma interface inspirada em plataformas de streamin
 
 ## 📖 O que aprendi nesta Imersão
 * **Aula 01:** Introdução ao desenvolvimento front-end e estruturação da base do projeto.
-* **Aula 02:** (Espaço para você preencher o que aprendeu na Aula 2)
+* **Aula 02:** Finalização do HTML semântico, introdução ao CSS (estilização externa e hierarquia de seletores) e estruturação do layout visual com auxílio de IA.
 * **Aula 03:** (Espaço para você preencher o que aprendeu na Aula 3)
 
 ## 🎨 Layout
