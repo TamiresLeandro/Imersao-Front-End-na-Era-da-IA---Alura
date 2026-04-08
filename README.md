@@ -25,7 +25,7 @@ A interface é baseada em uma plataforma de streaming, focando em:
 ## 🎓 Certificação
 Este projeto faz parte da minha trajetória de aprendizado em Front-End. Você pode visualizar meu certificado oficial da Alura no link abaixo:
 
-* [📜 Visualizar Certificado de Conclusão](LINK_DO_SEU_CERTIFICADO)
+* [📜 Visualizar Certificado de Conclusão](/Certificado/Front%20end%20com%20IA.pdf)
 
 ---
 Desenvolvido com 💙 por Tamires Leandro durante a Imersão Alura.
